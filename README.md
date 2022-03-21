@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive Coding and Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to Contribute to OpenSources 
-- 📫 My twitter od is @SauPratik (https://twitter.com/SauPratik)
+- 📫 My twitter id is @SauPratik (https://twitter.com/SauPratik)
 
 <!---
 FoxxPratikSau/FoxxPratikSau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
