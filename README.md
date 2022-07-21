@@ -1,7 +1,11 @@
 # 💫Heyy I am Pratik
+
 👋 Hi, I’m @FoxxPratikSau
+
 👀 I’m interested in Blockchain and App Development
+
 🌱 I’m currently learning Flutter
+
 💞️ I’m looking to Contribute to OpenSources
 
 ## 🌐Socials
