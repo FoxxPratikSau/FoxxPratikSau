@@ -2,9 +2,9 @@
 
 👋 Hi, I’m @FoxxPratikSau
 
-👀 I’m interested in Blockchain and App Development
+👀 I’m interested in App Development
 
-🌱 I’m currently learning Flutter
+🌱 I’m currently developing in Flutter
 
 💞️ I’m looking to Contribute to OpenSources
 
