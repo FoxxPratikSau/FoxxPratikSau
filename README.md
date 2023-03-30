@@ -1,6 +1,6 @@
 # 💫Heyy I am Pratik
 
-👋 Hi, I’m @FoxxPratikSau
+👋 Hi, I’m an undergrad student at IIIT Bhubaneswar
 
 👀 I’m interested in App Development
 
