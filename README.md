@@ -4,7 +4,7 @@
 
 👀 I’m interested in App Development
 
-🌱 I’m currently developing in Flutter
+🌱 I’m currently developing in Flutter, Django, MERN
 
 💞️ I’m looking to Contribute to OpenSources
 
