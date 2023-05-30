@@ -25,6 +25,8 @@
 ![FoxxPratikSau's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FoxxPratikSau&theme=tokyonight&hide_border=true)</br>
 ![FoxxPratikSau's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxxPratikSau&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+### recent blogs :
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratik.sau09/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
 ### ✍️Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
