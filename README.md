@@ -1,1 +1,2 @@
-Full stack engineer, LLM integrations, Agentic Engineering
+Full stack engineer, I love building things
+
